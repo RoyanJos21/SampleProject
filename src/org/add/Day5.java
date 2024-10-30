@@ -25,8 +25,7 @@ public class Day5 {
 		driver.get("http://greenstech.in/selenium-course-content.html");
 		driver.manage().window().maximize();
 		
-		WebElement frame = driver.findElement(By.xpath("//div[@id='heading2011']"));
-		frame.click();
+		
 		
 //		Actions  actions=new Actions(driver);
 //		
