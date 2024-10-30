@@ -18,6 +18,13 @@ public class DemoPrac {
 
 		WebElement clkSign = driver.findElement(By.xpath("//*[@id=\"sdHeader\"]/div[4]/div[2]/div/div[3]/div[3]/div"));
 		clkSign.click();
+
+		WebElement clkSign = driver.findElement(By.xpath("//*[@id=\"sdHeader\"]/div[4]/div[2]/div/div[3]/div[3]/div"));
+		clkSign.click();
+		WebElement clkSign = driver.findElement(By.xpath("//*[@id=\"sdHeader\"]/div[4]/div[2]/div/div[3]/div[3]/div"));
+		clkSign.click();
+		WebElement clkSign = driver.findElement(By.xpath("//*[@id=\"sdHeader\"]/div[4]/div[2]/div/div[3]/div[3]/div"));
+		clkSign.click();
 		
 		WebElement clkNew = driver.findElement(By.xpath("//*[@id=\"sdHeader\"]/div[4]/div[2]/div/div[3]/div[3]/div/div/div[2]/div[2]/span[1]"));
 		clkNew.click();
